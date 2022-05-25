@@ -18,6 +18,7 @@
     <Reference Include="$(BIELibsFolder)\0Harmony.dll" Private="false" />
     <Reference Include="$(BIELibsFolder)\UnhollowerBaseLib.dll" Private="false" />
     <Reference Include="$(BIELibsFolder)\UnhollowerRuntimeLib.dll" Private="false" />
+	<Reference Include="$(PluginsFolder)\GTFO-API.dll" Private="false" />
   </ItemGroup>
 
   <!-- Mono libs -->

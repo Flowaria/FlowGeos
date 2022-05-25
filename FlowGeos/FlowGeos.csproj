@@ -30,6 +30,7 @@
   <ItemGroup>
     <Compile Include="EntryPoint.cs" />
     <Compile Include="FlowGeosLogger.cs" />
+    <Compile Include="Inject_LG_Reactor.cs" />
     <None Include="Dependencies.props" />
     <None Include="GameFolder.props" />
   </ItemGroup>
